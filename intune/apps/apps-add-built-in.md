@@ -69,7 +69,7 @@ You can modify information about the built-in app. This information helps you to
     - **Description**: Enter a description for the app. 
     - **Publisher**: Enter the name of the publisher of the app.
     - **Category**: Optionally, select one or more of the built-in app categories. Setting this option makes it easier for users to find the app when they browse the company portal.
-    - **Show this as a featured app in the company portal**: Display the app prominently on the main page of the company portal when users browse for apps.
+    - **Show this as a featured app in the company portal(Available assignment only)**: Display the app prominently on the main page of the company portal when users browse for apps.
     - **Information URL**: Optionally, enter the URL of a website that contains information about this app. The URL is displayed to users in the company portal.
     - **Privacy URL**: Optionally, enter the URL of a website that contains privacy information for this app. The URL is displayed to users in the company portal.
     - **Developer**: Optionally, enter the name of the app developer.
